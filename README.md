@@ -3,6 +3,16 @@ turn on and off caps lock, num lock, scroll lock <br/>
 <br/>
 written in c++
 
+## BUILD
+in terminal go to project directory and execute this command
+<br/>
+`g++ main.cpp`
+
+## RUN
+in terminal go to project directory and execute this command
+<br/>
+`./a.out`
+
 ## TEST
 this program tested on ubuntu 18.04 and worked properly
 ### screenshots
